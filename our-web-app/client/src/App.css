@@ -3,7 +3,15 @@ body {
   font-family: sans-serif;
 }
 
-h1 {
+.toggle-button {
+  all: unset;
+  font: inherit;
+  width: 200px;
+  height: 200px;
+  border-radius: 4px;
+}
+ 
+ h1 {
   font-size: 8rem;
 }
 
